@@ -1,0 +1,145 @@
+
+Status code of Activity Tracker Status Update :500
+Status Message is:{"code":500,"message":"There was an error processing your request, please try again.","state":"error"}
+Current_Date_Time 2022-11-25 12:37:37
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :500
+Status Message is:{"code":500,"message":"There was an error processing your request, please try again.","state":"error"}
+Current_Date_Time 2022-11-25 12:39:08
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :415
+Status Message is:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Unsupported Media Type</pre>
+</body>
+</html>
+
+Current_Date_Time 2022-11-25 12:40:32
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :415
+Status Message is:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Unsupported Media Type</pre>
+</body>
+</html>
+
+Current_Date_Time 2022-11-25 12:42:08
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :415
+Status Message is:<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Unsupported Media Type</pre>
+</body>
+</html>
+
+Current_Date_Time 2022-11-25 12:43:05
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNjgxNDEsIm5iZiI6MTY2OTM2ODA4MSwiZXhwIjoxNjY5NDA0MTQxLCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.3K67zfCUPU-o0WO_m4Wi3h1x6EiyFZDaAzRCg3cpSw0","refreshToken":"Rk1eT6TS8G5fMNWXNr3CSspYJ0dEjKc2zqMKlCdvToX9hYdKQOv4Y8HgGHYViVnB","personId":9593101,"state":"authenticated"}
+Current_Date_Time 2022-11-25 14:54:05
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNjg3ODMsIm5iZiI6MTY2OTM2ODcyMywiZXhwIjoxNjY5NDA0NzgzLCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.ENM-Iq5vZZoOGEVZLZE5XmnZY-zY8L1NjaG5UUc-Y5k","refreshToken":"YzQmxLVnaAh4VmBkqaLKdwb9Ss2NaqJBe4HhtWbKFRe3fGVKPydxp06DYuegB9wQ","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNjg3ODMsIm5iZiI6MTY2OTM2ODcyMywiZXhwIjoxNjY5NDA0NzgzLCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.ENM-Iq5vZZoOGEVZLZE5XmnZY-zY8L1NjaG5UUc-Y5k
+Current_Date_Time 2022-11-25 15:04:47
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNjg5MDQsIm5iZiI6MTY2OTM2ODg0NCwiZXhwIjoxNjY5NDA0OTA0LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.8XCMwwwS_M5793cDN0yxxrbAR45IffFi5vTJQZ2u1rE","refreshToken":"lh7AIufMVfpvMTtfjfAg6o0ehA4pOlMDX0BZO8Qe0NJjxpFuiag7NcPMFGst2Zgp","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNjg5MDQsIm5iZiI6MTY2OTM2ODg0NCwiZXhwIjoxNjY5NDA0OTA0LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.8XCMwwwS_M5793cDN0yxxrbAR45IffFi5vTJQZ2u1rE  User ID: 9593101
+Current_Date_Time 2022-11-25 15:06:51
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNjg5OTgsIm5iZiI6MTY2OTM2ODkzOCwiZXhwIjoxNjY5NDA0OTk4LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.oteCTMDB-jKjX0wbITGddM1DozwooMPC9Djyk0evamY","refreshToken":"o10rASCkrSWyrORkqs58TFQcejklFaEmRbAgz5rDyOt2L4gI0WU2QCmmb7iajUvm","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNjg5OTgsIm5iZiI6MTY2OTM2ODkzOCwiZXhwIjoxNjY5NDA0OTk4LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.oteCTMDB-jKjX0wbITGddM1DozwooMPC9Djyk0evamY  User ID: 9593101
+Current_Date_Time 2022-11-25 15:08:23
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzMzMTQsIm5iZiI6MTY2OTM3MzI1NCwiZXhwIjoxNjY5NDA5MzE0LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.JZancyg2bB5Wi1_CEtQ-PWGkegkHaTtsmT7v_bn_yRg","refreshToken":"qJtZZarTl8gYc5ekadNlOqxq0MEZPDhuZioRH8L93aZhdbjbYrNuEr9y0nqmBwUi","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzMzMTQsIm5iZiI6MTY2OTM3MzI1NCwiZXhwIjoxNjY5NDA5MzE0LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.JZancyg2bB5Wi1_CEtQ-PWGkegkHaTtsmT7v_bn_yRg  User ID: 9593101
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Current_Date_Time 2022-11-25 16:20:18
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzM5NjAsIm5iZiI6MTY2OTM3MzkwMCwiZXhwIjoxNjY5NDA5OTYwLCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.-xgYPPkIrDnaGUq9iXaNbiZBgGmi3OZvodnOt_a7tmk","refreshToken":"GQAh2YI6RSGHnNT9VteKrIi7rTKbHdKZ3Xx5Fh4ASxWlbK1ArheJ6FcjTP12dMRX","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzM5NjAsIm5iZiI6MTY2OTM3MzkwMCwiZXhwIjoxNjY5NDA5OTYwLCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.-xgYPPkIrDnaGUq9iXaNbiZBgGmi3OZvodnOt_a7tmk  User ID: 9593101
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Current_Date_Time 2022-11-25 16:31:05
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzQwNDcsIm5iZiI6MTY2OTM3Mzk4NywiZXhwIjoxNjY5NDEwMDQ3LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.AJWwzw-9w6KzmCf7DWqD1zgMCuagmDFdbqZzM2uLv48","refreshToken":"1DC6Fx3rfaKxHfOyaAAauBlfvNFnOoFIzTj7O5SEadbqfZmqX5kPJEezzpjJYh6g","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzQwNDcsIm5iZiI6MTY2OTM3Mzk4NywiZXhwIjoxNjY5NDEwMDQ3LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.AJWwzw-9w6KzmCf7DWqD1zgMCuagmDFdbqZzM2uLv48  User ID: 9593101
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Current_Date_Time 2022-11-25 16:32:32
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzQyNTEsIm5iZiI6MTY2OTM3NDE5MSwiZXhwIjoxNjY5NDEwMjUxLCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.DB_ueKHBDk0bE7lUCLnmQBQrC1owZYUMUmyucvZWyR8","refreshToken":"LsDJkkH0njwKQkWTyrvZ7FddssRhJA0fGmR71I1ZDZYBDkjJsJqxODDYYbNPMoaJ","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzQyNTEsIm5iZiI6MTY2OTM3NDE5MSwiZXhwIjoxNjY5NDEwMjUxLCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.DB_ueKHBDk0bE7lUCLnmQBQrC1owZYUMUmyucvZWyR8  User ID: 9593101
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Current_Date_Time 2022-11-25 16:35:56
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzczMTYsIm5iZiI6MTY2OTM3NzI1NiwiZXhwIjoxNjY5NDEzMzE2LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.MVl7PymZBkjZg9QilUDd62pU1QGV3nBvAD014PpQYvw","refreshToken":"YsbbqNmMJZg6HPQB4fMmsKwuV8BZQeOMSUmP1QUSfDHtBg3mcmMv8bjaxwSMIWWJ","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzczMTYsIm5iZiI6MTY2OTM3NzI1NiwiZXhwIjoxNjY5NDEzMzE2LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.MVl7PymZBkjZg9QilUDd62pU1QGV3nBvAD014PpQYvw  User ID: 9593101
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Current_Date_Time 2022-11-25 17:27:00
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzc0MDAsIm5iZiI6MTY2OTM3NzM0MCwiZXhwIjoxNjY5NDEzNDAwLCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.YaQqI-viOvGn5NNeCnvKIe69_UjY5SKS5IK-9RjtEts","refreshToken":"iekV91lnvgcmOzWDYxYqV5RSQQBxR2RaokxbKR2hWKI67ZTEaDqMnXwlDtvSFaZr","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzc0MDAsIm5iZiI6MTY2OTM3NzM0MCwiZXhwIjoxNjY5NDEzNDAwLCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.YaQqI-viOvGn5NNeCnvKIe69_UjY5SKS5IK-9RjtEts  User ID: 9593101
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Current_Date_Time 2022-11-25 17:28:24
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzc1MjYsIm5iZiI6MTY2OTM3NzQ2NiwiZXhwIjoxNjY5NDEzNTI2LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.HYwo6emT9cg515cBJ_CpOpZFEmYj4AMwV-0D-KglFx0","refreshToken":"kjkBX57JwI3UGKPXTX2fXZAKifRZETcrt2gQajcuaSIx4eBNeqirecA3QYFnajZA","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzc1MjYsIm5iZiI6MTY2OTM3NzQ2NiwiZXhwIjoxNjY5NDEzNTI2LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.HYwo6emT9cg515cBJ_CpOpZFEmYj4AMwV-0D-KglFx0  User ID: 9593101
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Current_Date_Time 2022-11-25 17:30:30
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
+
+Status code of Activity Tracker Status Update :200
+Status Message is:{"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzgwODYsIm5iZiI6MTY2OTM3ODAyNiwiZXhwIjoxNjY5NDE0MDg2LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.h4JPm5N9CHgUOOySdEbf3vQiLEuL75JtMjqwQ-sW6hk","refreshToken":"aC1mBD6152FQAdnXVwuyWxqNF5XPXA6u46BmjYojsnyQRlWaQ0NY36ihV8CshMvm","personId":9593101,"state":"authenticated"}
+
+Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjkzNzgwODYsIm5iZiI6MTY2OTM3ODAyNiwiZXhwIjoxNjY5NDE0MDg2LCJhdWQiOiJodHRwczovL2Rldi5yaXBwbGVzdHJlZXQuY29tIiwiaXNzIjoiaHR0cHM6Ly9kZXYucmlwcGxlc3RyZWV0LmNvbSIsInN1YiI6Ijk1OTMxMDEifQ.h4JPm5N9CHgUOOySdEbf3vQiLEuL75JtMjqwQ-sW6hk  User ID: 9593101
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Current_Date_Time 2022-11-25 17:39:51
+____________________   RS API AUTOMATION COMPLETED  _______________________ 
