@@ -18,21 +18,21 @@ import io.cucumber.java.en.When;
 public class VagrantTesting {
 	WebDriver driver;
 	
-	private TestVagrant Palyon;
+	private TestVagrant Vagrant;
 	
 	public VagrantTesting() throws IOException{}
 			
 	
 	@When("^Verify whether the team has only 4 foreign players$")
 	public void Verify_whether_the_team_has_only_4_foreign_players() throws Throwable {
-		Palyon=new TestVagrant(); 
-		Palyon.ForeignPlayer();
+		Vagrant=new TestVagrant(); 
+		Vagrant.ForeignPlayer();
 		
 	}
 	@When("^Verify whether there is atleast one wicket keeper$")
 	public void Verify_whether_there_is_atleast_one_wicket_keeper() throws Throwable {
-		Palyon=new TestVagrant(); 
-		Palyon.WicketKeeper();
+		Vagrant=new TestVagrant(); 
+		Vagrant.WicketKeeper();
 	}
 	
 }
